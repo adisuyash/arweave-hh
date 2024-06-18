@@ -2,16 +2,15 @@
 
 This project is a locally-running full-stack application built on Arweave, inspired by Nader Dabit's tutorial: "How to build a full stack application on Arweave with smart contracts running on Smartweave via Warp Protocol" [Nader Dabit's Tutorial on Building a Full-Stack App on Arweave](https://www.youtube.com/watch?v=cGLMN5A2C4E).
 
-Key Points:
+### Key Points:
 
-Technology Stack:
-Arweave
-Smartweave
-Warp Protocol (potentially Next.js based on Dabit's tutorial)
-Development Stage: Local development (not deployed)
-Purpose:
-This project serves as a starting point for building permanent applications on Arweave using the guidance provided by Nader Dabit's tutorial.
-Due to limited resources on Arweave development, this project leverages Dabit's tutorial as a foundation.
+## Technology Stack:
+- Arweave
+- Smartweave
+- Warp Protocol (potentially Next.js based on Dabit's tutorial)
+Development Stage: Deployed
+### Purpose:
+Based on Nader Dabit's tutorial I've learnt how to interact with the Arweave blockchain & due to limited resources  on Arweave development & short deadline for submission, I am able to do this only! Maybe I'll be working with Arweave after the submission.
 
 ## Getting started
 
