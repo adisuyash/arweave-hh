@@ -6,8 +6,8 @@ import { useRouter } from 'next/router'
 export default function CreatePostComponent() {
   const [post, updatePost] = useState({
     title: '', content: ''
-  })
-  const router = useRouter()
+  });
+  const router = useRouter();
 
   async function createPost() {
     if (!post.title || !post.content) return
